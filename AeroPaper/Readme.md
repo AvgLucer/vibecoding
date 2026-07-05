@@ -1,8 +1,9 @@
 # AeroPaper Desktop Suite
 
-
-![AeroPaper Preview](1st.PNG)
-![AeroPaper Preview2](2nd.PNG)
+<p align="center">
+  <img src="1st.PNG" width="48%">
+  <img src="2nd.PNG" width="48%">
+</p>
 
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
